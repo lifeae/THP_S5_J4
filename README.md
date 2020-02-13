@@ -1,7 +1,7 @@
-# Auteur : THP-S5-J1, THP-S5-J2, THP-S5-J3 
+## Auteur : THP-S5-J1, THP-S5-J2, THP-S5-J3 
 🐰 Luca Montaigut : https://github.com/luca-montaigut
 
-# Auteur : THP-S5-J4
+## Auteur : THP-S5-J4
 Romain Leporatti : https://github.com/lifeae
 
 # The Gossip Project
