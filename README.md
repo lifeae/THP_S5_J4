@@ -4,6 +4,10 @@
 ## Auteur : THP-S5-J4
 Romain Leporatti : https://github.com/lifeae
 
+
+
+
+
 # The Gossip Project
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-ruby.svg)![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
